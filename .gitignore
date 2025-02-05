@@ -1,0 +1,8 @@
+# generated file
+go.sum
+
+# log file
+tmp
+
+# vscode dev setting
+.vscode
